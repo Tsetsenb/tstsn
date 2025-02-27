@@ -1,26 +1,26 @@
 [
   {
-    "pic": "https://drive.google.com/file/d/17sePBiF2T69Ct2vP2ts1WXaShUWJf-4E/view?usp=drive_link",
+    "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/hibiscus.jpg",
     "options": ["hibiscus", "tulip", "rose", "peony"],
     "answer": "hibiscus"
   },
   {
-    "pic": "https://drive.google.com/file/d/1bDURvBCu61XZU6dgOZZxczrOK2EIeSkY/view?usp=drive_link",
+    "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/lily.jpg",
     "options": ["hibiscus", "lily", "rose", "peony"],
     "answer": "lily"
   },
   {
-    "pic": "https://drive.google.com/file/d/1zTNm5F8ZFB9-ZRx20LhGztzZXi8MxGQf/view?usp=drive_link",
+    "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/llotus.jpg",
     "options": ["hibiscus", "lily", "rose", "lotus"],
     "answer": "lotus"
   },
   {
-    "pic": "https://drive.google.com/file/d/1p0iLEFq1IdMDvlpYm-93kmT28H5ldGMt/view?usp=drive_link",
+    "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/peony.jpg",
     "options": ["peony", "lily", "rose", "lotus"],
     "answer": "peony"
   },
   {
-    "pic": "https://drive.google.com/file/d/1dK_eIkMSUfqcoAqeSOanr4-5sX7TbVKP/view?usp=drive_link",
+    "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/tulip.jpg",
     "options": ["peony", "lily", "tulip", "lotus"],
     "answer": "tulip"
   },
