@@ -2,26 +2,26 @@
   {
     "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/hibiscus.jpg",
     "options": ["hibiscus", "tulip", "rose", "peony"],
-    "answer": "hibiscus"
+    "answer": "hibiscus",
   },
   {
     "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/lily.jpg",
     "options": ["hibiscus", "lily", "rose", "peony"],
-    "answer": "lily"
+    "answer": "lily",
   },
   {
     "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/llotus.jpg",
     "options": ["hibiscus", "lily", "rose", "lotus"],
-    "answer": "lotus"
+    "answer": "lotus",
   },
   {
     "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/peony.jpg",
     "options": ["peony", "lily", "rose", "lotus"],
-    "answer": "peony"
+    "answer": "peony",
   },
   {
     "pic": "https://raw.githubusercontent.com/Tsetsenb/tstsn/refs/heads/main/tulip.jpg",
     "options": ["peony", "lily", "tulip", "lotus"],
-    "answer": "tulip"
+    "answer": "tulip",
   },
 ]
